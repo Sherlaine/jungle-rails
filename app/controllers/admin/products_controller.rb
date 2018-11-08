@@ -1,6 +1,7 @@
 class Admin::ProductsController < ApplicationController
 
   def index
+    #bug
     @products = Product.order(id: :desc).all
   end
 
