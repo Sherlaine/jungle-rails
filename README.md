@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 # Final Product
 
-[!"Screenshot - Landing Page"]()
-[!"Screenshot - Categories Page"]()
-[!"Screenshot - Checkout Page"]()
+[!"Screenshot - Landing Page"](https://github.com/Sherlaine/jungle-rails/blob/master/public/screenshots/landing-page.png)
+[!"Screenshot - Categories Page"](https://github.com/Sherlaine/jungle-rails/blob/master/public/screenshots/electronic-products.png)
+[!"Screenshot - Checkout Page"](https://github.com/Sherlaine/jungle-rails/blob/master/public/screenshots/checkout.png)
 
 ## Setup
 
