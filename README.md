@@ -2,7 +2,7 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
-# Final Product
+## Final Product
 
 [!"Screenshot - Landing Page"](https://github.com/Sherlaine/jungle-rails/blob/master/public/screenshots/landing-page.png)
 [!"Screenshot - Categories Page"](https://github.com/Sherlaine/jungle-rails/blob/master/public/screenshots/electronic-products.png)

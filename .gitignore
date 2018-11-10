@@ -56,7 +56,7 @@ bower.json
 # Ignore Byebug command history file.
 .byebug_history
 
+#Ignore these files
 .github
-
 .env 
 .env.example
